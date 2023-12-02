@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+
+# Compiled output
+dist/
+build/
+
+# Windows
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# Editor directories and files
+*.sublime-project
+*.sublime-workspace
+
+# Local development files
+.env
